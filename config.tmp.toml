@@ -1,0 +1,12 @@
+token = ""
+
+[twilio]
+token = ""
+account_sid = ""
+phone_number = ""
+
+[mysql]
+host = ""
+user = ""
+password = ""
+autocommit = true
